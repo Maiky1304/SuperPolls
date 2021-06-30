@@ -1,0 +1,21 @@
+{
+  "name": "superpolls",
+  "version": "1.0.0",
+  "description": "SuperPolls is a Discord bot that makes making Polls super easy!\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[p",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "sequelize": "^6.6.2",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "bot",
+    "discord"
+  ],
+  "author": "Maiky Perlee",
+  "license": "MIT"
+}
